@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/32"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Subculture",
+            "releaseId": 32,
+            "imageUrl": "https://img.discogs.com/xGDbT2hqCHZaSe3nbE74fshrN_c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-27740-1204049088.jpeg.jpg",
+            "catalogNumber": "FAC 133",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Subculture",
+                    "trackNumber": "A",
+                    "duration": 446
+                },
+                {
+                    "title": "Dubvulture",
+                    "trackNumber": "B",
+                    "duration": 477
+                }
+            ],
+            "releaseMonth": 10,
+            "releaseDay": 28,
+            "releaseYear": 1985,
+            "recordLabelName": "Factory Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

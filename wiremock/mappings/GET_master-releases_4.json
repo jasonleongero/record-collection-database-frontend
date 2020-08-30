@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/4"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "masterReleaseId": 4,
+            "imageUrl": "https://img.discogs.com/OH1roMRy-BMDJUjlMJjUnTZ2LFk=/fit-in/560x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53188-1348583178-8236.jpeg.jpg",
+            "releaseVersions": 6
+        }
+    }
+}

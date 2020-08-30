@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/5"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "releaseId": 5,
+            "imageUrl": "https://img.discogs.com/4aoax7y-uev3pxvmwLm0Qyd7kw0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24398-1241286029.jpeg.jpg",
+            "catalogNumber": "21022-0",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Strangelove [Highjack Remix]",
+                    "trackNumber": "A1",
+                    "duration": 390
+                },
+                {
+                    "title": "Strangelove [Remix / Edit]",
+                    "trackNumber": "A2",
+                    "duration": 226
+                },
+                {
+                    "title": "Nothing [Zip-Hop Mix]",
+                    "trackNumber": "B1",
+                    "duration": 426
+                },
+                {
+                    "title": "Nothing [Dub]",
+                    "trackNumber": "B2",
+                    "duration": 400
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 23,
+            "releaseYear": 1988,
+            "recordLabelName": "Sire Records",
+            "countryName": "United States"
+        }
+    }
+}

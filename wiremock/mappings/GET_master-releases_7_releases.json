@@ -1,0 +1,57 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/7/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "A Question of Time",
+                "releaseId": 10,
+                "imageUrl": "https://img.discogs.com/NbRflivHJxIK4YeA9t76zjpxQpQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2312225-1371381461-2490.jpeg.jpg",
+                "catalogNumber": "7 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Time",
+                "releaseId": 11,
+                "imageUrl": "https://img.discogs.com/m6BOsIcqgWfUAOxqV4J55fkVMFM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56792-1364118896-4046.jpeg.jpg",
+                "catalogNumber": "12 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Time",
+                "releaseId": 12,
+                "imageUrl": "https://img.discogs.com/HJyCvLnEfMYYLzCQ8ro5yjaZFII=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56794-1232566501.jpeg.jpg",
+                "catalogNumber": "L12 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

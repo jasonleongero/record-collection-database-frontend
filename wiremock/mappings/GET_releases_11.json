@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/11"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Time",
+            "releaseId": 11,
+            "imageUrl": "https://img.discogs.com/m6BOsIcqgWfUAOxqV4J55fkVMFM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56792-1364118896-4046.jpeg.jpg",
+            "catalogNumber": "12 BONG 12",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Time [Extended Remix]",
+                    "trackNumber": "A",
+                    "duration": 391
+                },
+                {
+                    "title": "Black Celebration [Live]",
+                    "trackNumber": "B1",
+                    "duration": 366
+                },
+                {
+                    "title": "Something To Do [Live]",
+                    "trackNumber": "B2",
+                    "duration": 236
+                },
+                {
+                    "title": "Stripped [Live]",
+                    "trackNumber": "B3",
+                    "duration": 386
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 11,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

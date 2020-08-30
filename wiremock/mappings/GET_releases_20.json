@@ -1,0 +1,60 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/20"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "releaseId": 20,
+            "imageUrl": "https://img.discogs.com/sTTWf3dRWAZ_z8ZSCwSn_FR2YdY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38715-1371706989-2941.jpeg.jpg",
+            "catalogNumber": "12 BONG 11",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Lust",
+                    "trackNumber": "A1",
+                    "duration": 266
+                    
+                },
+                {
+                    "title": "Christmas Island [Extended]",
+                    "trackNumber": "A2",
+                    "duration": 337
+                },
+                {
+                    "title": "People Are People [Live]",
+                    "trackNumber": "B1",
+                    "duration": 261
+                },
+                {
+                    "title": "It Doesn't Matter Two",
+                    "trackNumber": "B2",
+                    "duration": 165
+                },
+                {
+                    "title": "A Question of Lust [Minimal]",
+                    "trackNumber": "B3",
+                    "duration": 401
+                    
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 14,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

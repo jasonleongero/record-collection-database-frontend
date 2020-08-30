@@ -1,0 +1,49 @@
+{
+  "name": "record-collection-database-frontend",
+  "version": "0.0.1",
+  "description": "Web client for record collection database",
+  "main": "index.js",
+  "scripts": {
+    "watch": "./node_modules/.bin/webpack --config webpack.config.js --watch --env.ENVIRONMENT=\"dev\"",
+    "build": "./node_modules/.bin/webpack --config webpack.config.js",
+    "build:dev": "./node_modules/.bin/webpack --config webpack.config.js --env.ENVIRONMENT=\"dev\"",
+    "mock": "cd wiremock; ./start.sh",
+    "develop": "npm run build:dev; ./node_modules/.bin/concurrently \"npm run watch\" \"npm run serve\" \"npm run mock\"",
+    "serve": "./node_modules/.bin/http-server -p 8888"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "angular2-template-loader": "^0.6.2",
+    "concurrently": "^3.5.1",
+    "css-loader": "^0.28.9",
+    "event-hooks-webpack-plugin": "^2.0.0",
+    "file-loader": "^1.1.11",
+    "http-server": "^0.11.1",
+    "js-yaml": "^3.11.0",
+    "node-sass": "^4.7.2",
+    "post-compile-webpack-plugin": "^0.1.2",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.1",
+    "to-string-loader": "^1.1.5",
+    "ts-loader": "^3.1.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "@angular/common": "^5.2.6",
+    "@angular/compiler": "^5.0.3",
+    "@angular/core": "^5.2.6",
+    "@angular/forms": "^5.2.6",
+    "@angular/platform-browser": "^5.2.6",
+    "@angular/platform-browser-dynamic": "^5.0.3",
+    "@angular/router": "^5.2.6",
+    "angular-http-server": "^1.4.3",
+    "moment": "^2.20.1",
+    "rxjs": "^5.5.2",
+    "sprintf": "^0.1.5",
+    "zone.js": "^0.8.18"
+  }
+}

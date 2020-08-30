@@ -1,0 +1,54 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/27"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Shake the Disease",
+            "releaseId": 27,
+            "imageUrl": "https://img.discogs.com/rU2iMGTTHTzjlHi1l0bcO8eXVtQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50326-1159609855.jpeg.jpg",
+            "catalogNumber": "L12 BONG 8",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Shake the Disease [Edit the Shake]",
+                    "trackNumber": "A1",
+                    "duration": 430
+                },
+                {
+                    "title": "Master and Servant [Live]",
+                    "trackNumber": "A2",
+                    "duration": 337
+                },
+                {
+                    "title": "Flexible [Pre-Deporatation Mix]",
+                    "trackNumber": "B1",
+                    "duration": 280
+                    
+                },
+                {
+                    "title": "Something To Do [Metalmix]",
+                    "trackNumber": "B2",
+                    "duration": 446
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1985,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

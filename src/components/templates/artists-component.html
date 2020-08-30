@@ -1,0 +1,10 @@
+<div class="view">
+    <img *ngIf="loading && !error" src="dist/images/loading.gif" />
+    <error *ngIf="error"></error>
+    <h3 *ngIf="!loading">Select an Artist:</h3>
+    <ul *ngIf="!loading">
+        <li *ngFor="let artist of artists">
+            <a routerLink="/hierarchical-view/artist/{{artist.artistId}}" routerLinkActive="active">{{artist.name}}</a>
+        </li>
+    </ul>
+</div>

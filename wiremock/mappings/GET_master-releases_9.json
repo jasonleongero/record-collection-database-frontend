@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/9"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "The Perfect Kiss",
+            "masterReleaseId": 9,
+            "imageUrl": "https://img.discogs.com/Z3IpjUvI2Ifvqyn3MpltVky_cjg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58672-1348333547-3724.jpeg.jpg",
+            "releaseVersions": 3
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/24"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "releaseId": 24,
+            "imageUrl": "https://img.discogs.com/7AP_nypUrOgFxhtUNZzWvwdmLIQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-548614-1232565857.jpeg.jpg",
+            "catalogNumber": "PRO-A-2504",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Lust [Remix / Edit]",
+                    "trackNumber": "A",
+                    "duration": 225
+                    
+                },
+                {
+                    "title": "A Question of Lust [LP Version]",
+                    "trackNumber": "B",
+                    "duration": 266
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1986,
+            "recordLabelName": "Sire Records",
+            "countryName": "United States"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/1"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "releaseId": 1,
+            "imageUrl": "https://img.discogs.com/i5VLCcR6B9c4HFxJaHTLQDakikM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53172-1251471618.jpeg.jpg",
+            "catalogNumber": "BONG 13",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Strangelove",
+                    "trackNumber": "A",
+                    "duration": 225
+                },
+                {
+                    "title": "Pimpf",
+                    "trackNumber": "B",
+                    "duration": 273
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 27,
+            "releaseYear": 1987,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

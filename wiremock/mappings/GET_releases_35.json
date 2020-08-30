@@ -1,0 +1,73 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/35"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Low-life",
+            "releaseId": 35,
+            "imageUrl": "https://img.discogs.com/knNIp5pJVUiVsA4Q_bDVvBa-8qA=/fit-in/597x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71229-1339844666-4341.jpeg.jpg",
+            "catalogNumber": "FACT 100",
+            "formats": [
+                {
+                    "formatName": "LP",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Love Vigilantes",
+                    "trackNumber": "A1",
+                    "duration": 260
+                },
+                {
+                    "title": "The Perfect Kiss",
+                    "trackNumber": "A2",
+                    "duration": 289
+                },
+                {
+                    "title": "This Time of Night",
+                    "trackNumber": "A3",
+                    "duration": 285
+                },
+                {
+                    "title": "Sunrise",
+                    "trackNumber": "A4",
+                    "duration": 362
+                },
+                {
+                    "title": "Elegia",
+                    "trackNumber": "B1",
+                    "duration": 295
+                },
+                {
+                    "title": "Sooner Than You Think",
+                    "trackNumber": "B2",
+                    "duration": 313
+                },
+                {
+                    "title": "Subculture",
+                    "trackNumber": "B3",
+                    "duration": 298
+                },
+                {
+                    "title": "Face Up",
+                    "trackNumber": "B4",
+                    "duration": 307
+                }
+            ],
+            "releaseMonth": 5,
+            "releaseDay": 13,
+            "releaseYear": 1985,
+            "recordLabelName": "Factory Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

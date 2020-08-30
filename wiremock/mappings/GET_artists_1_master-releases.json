@@ -1,0 +1,63 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/artists/1/master-releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Shake the Disease",
+                "masterReleaseId": 5,
+                "imageUrl": "https://img.discogs.com/2pGGPE0PMfTmoSDoDB88Scnmw8Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-128824-1251462891.jpeg.jpg",
+                "releaseVersions": 3
+            },
+            {
+                "title": "It's Called a Heart",
+                "masterReleaseId": 6,
+                "imageUrl": "https://img.discogs.com/2A3fo0tp93WJ0_JsZ9XSm6ynmPM=/fit-in/560x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53167-1348997918-7982.jpeg.jpg",
+                "releaseVersions": 4
+            },
+            {
+                "title": "Stripped",
+                "masterReleaseId": 3,
+                "imageUrl": "https://img.discogs.com/kpQ3R6e-020-XT2oo5IU-rtfabI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127190-1277816388.jpeg.jpg",
+                "releaseVersions": 2
+            },
+            {
+                "title": "Black Celebration",
+                "masterReleaseId": 8,
+                "imageUrl": "https://img.discogs.com/q7tEWR6UFc2EWwgV_11CddpPnL4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5583842-1405089505-2070.jpeg.jpg",
+                "releaseVersions": 1
+            },
+            {
+                "title": "A Question of Lust",
+                "masterReleaseId": 4,
+                "imageUrl": "https://img.discogs.com/OH1roMRy-BMDJUjlMJjUnTZ2LFk=/fit-in/560x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53188-1348583178-8236.jpeg.jpg",
+                "releaseVersions": 6
+            },
+            {
+                "title": "A Question of Time",
+                "masterReleaseId": 7,
+                "imageUrl": "https://img.discogs.com/NbRflivHJxIK4YeA9t76zjpxQpQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2312225-1371381461-2490.jpeg.jpg",
+                "releaseVersions": 3
+            },
+            {
+                "title": "Strangelove",
+                "masterReleaseId": 1,
+                "imageUrl": "https://img.discogs.com/i5VLCcR6B9c4HFxJaHTLQDakikM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53172-1251471618.jpeg.jpg",
+                "releaseVersions": 5
+            },
+            {
+                "title": "Never Let Me Down Again",
+                "masterReleaseId": 2,
+                "imageUrl": "https://img.discogs.com/wg-Ns8lRoteX9KGowUujxHb7-nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53157-1251472792.jpeg.jpg",
+                "releaseVersions": 3
+            }
+        ]
+    }
+}

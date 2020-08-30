@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/2"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Never Let Me Down Again",
+            "masterReleaseId": 2,
+            "imageUrl": "https://img.discogs.com/wg-Ns8lRoteX9KGowUujxHb7-nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53157-1251472792.jpeg.jpg",
+            "releaseVersions": 3
+        }
+    }
+}

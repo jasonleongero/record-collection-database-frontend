@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/33"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Shellshock",
+            "releaseId": 33,
+            "imageUrl": "https://img.discogs.com/9e9_jYQBZowTXTCOvepYJwuUySo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93238-1333742707.jpeg.jpg",
+            "catalogNumber": "FAC 143",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Shellshock",
+                    "trackNumber": "A",
+                    "duration": 264
+                },
+                {
+                    "title": "Thieves Like Us [Instrumental Edit]",
+                    "trackNumber": "B",
+                    "duration": 238
+                }
+            ],
+            "releaseMonth": 5,
+            "releaseDay": null,
+            "releaseYear": 1985,
+            "recordLabelName": "Factory Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

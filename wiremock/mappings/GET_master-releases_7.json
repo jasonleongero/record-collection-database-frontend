@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/7"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Time",
+            "masterReleaseId": 7,
+            "imageUrl": "https://img.discogs.com/NbRflivHJxIK4YeA9t76zjpxQpQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2312225-1371381461-2490.jpeg.jpg",
+            "releaseVersions": 3
+        }
+    }
+}

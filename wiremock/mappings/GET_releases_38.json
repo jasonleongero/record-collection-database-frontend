@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/38"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Texas",
+            "releaseId": 38,
+            "imageUrl": "https://img.discogs.com/kacafsYAINUNnsjPBwkDexLozPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973964-1419090808-9430.jpeg.jpg",
+            "catalogNumber": "MRAY 38",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Texas",
+                    "trackNumber": "A",
+                    "duration": null
+                },
+                {
+                    "title": "Mountain Voices",
+                    "trackNumber": "B",
+                    "duration": null
+                }
+            ],
+            "releaseMonth": 6,
+            "releaseDay": null,
+            "releaseYear": 1987,
+            "recordLabelName": "Merciful Release",
+            "countryName": "United Kingdom"
+        }
+    }
+}

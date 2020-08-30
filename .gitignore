@@ -1,0 +1,7 @@
+.project
+.settings/
+.tern-project
+dist/
+node_modules/
+npm-debug.log
+wiremock/wiremock.jar

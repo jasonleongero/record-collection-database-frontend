@@ -1,0 +1,57 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/9/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 28,
+                "imageUrl": "https://img.discogs.com/nqFNdZ-dbfgU2mCAe50LUO55Ugg=/fit-in/559x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695569-1156084541.jpeg.jpg",
+                "catalogNumber": "FAC 123",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 29,
+                "imageUrl": "https://img.discogs.com/Z3IpjUvI2Ifvqyn3MpltVky_cjg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58672-1348333547-3724.jpeg.jpg",
+                "catalogNumber": "FAC 123",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 30,
+                "imageUrl": "https://img.discogs.com/RWM1hsWqLGnIlmxR0oSBeySeptk=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472459-1435644800-9607.jpeg.jpg",
+                "catalogNumber": "28968-7",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/13"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Black Celebration",
+            "releaseId": 13,
+            "imageUrl": "https://img.discogs.com/q7tEWR6UFc2EWwgV_11CddpPnL4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5583842-1405089505-2070.jpeg.jpg",
+            "catalogNumber": "STUMM 26",
+            "formats": [
+                {
+                    "formatName": "LP",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Black Celebration",
+                    "trackNumber": "A1",
+                    "duration": 295
+                },
+                {
+                    "title": "Fly on the Windscreen — Final",
+                    "trackNumber": "A2",
+                    "duration": 318
+                },
+                {
+                    "title": "A Question of Lust",
+                    "trackNumber": "A3",
+                    "duration": 260
+                },
+                {
+                    "title": "Sometimes",
+                    "trackNumber": "A4",
+                    "duration": 113
+                },
+                {
+                    "title": "It Doesn't Matter Two",
+                    "trackNumber": "A5",
+                    "duration": 170
+                },
+                {
+                    "title": "A Question of Time",
+                    "trackNumber": "B1",
+                    "duration": 250
+                },
+                {
+                    "title": "Stripped",
+                    "trackNumber": "B2",
+                    "duration": 256
+                },
+                {
+                    "title": "Here Is The House",
+                    "trackNumber": "B3",
+                    "duration": 255
+                },
+                {
+                    "title": "World Full of Nothing",
+                    "trackNumber": "B4",
+                    "duration": 170
+                },
+                {
+                    "title": "Dressed in Black",
+                    "trackNumber": "B5",
+                    "duration": 152
+                },
+                {
+                    "title": "New Dress",
+                    "trackNumber": "B6",
+                    "duration": 222
+                }
+            ],
+            "releaseMonth": 5,
+            "releaseDay": 17,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

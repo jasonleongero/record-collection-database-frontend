@@ -1,0 +1,48 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/29"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "The Perfect Kiss",
+            "releaseId": 29,
+            "imageUrl": "https://img.discogs.com/iYIFzfhivsEMHrntcJNEqEKZ9U8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2094921-1263693139.jpeg.jpg",
+            "catalogNumber": "FAC 123",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "The Perfect Kiss",
+                    "trackNumber": "A",
+                    "duration": 526
+                },
+                {
+                    "title": "The Kiss Of Death",
+                    "trackNumber": "B1",
+                    "duration": 420
+                },
+                {
+                    "title": "Perfect Pit",
+                    "trackNumber": "B2",
+                    "duration": 84
+                }
+            ],
+            "releaseMonth": 5,
+            "releaseDay": 13,
+            "releaseYear": 1985,
+            "recordLabelName": "Factory Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

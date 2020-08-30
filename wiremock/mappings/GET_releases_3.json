@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/3"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "releaseId": 3,
+            "imageUrl": "https://img.discogs.com/a9Il1SN9XoXnn_ZjeA4IpDXSh74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55360-1432887213-9145.png.jpg",
+            "catalogNumber": "L12 BONG 13",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Strangelove [Blind Mix]",
+                    "trackNumber": "A1",
+                    "duration": 390
+                },
+                {
+                    "title": "Pimpf",
+                    "trackNumber": "A2",
+                    "duration": 270
+                },
+                {
+                    "title": "Strangelove [Pain Mix]",
+                    "trackNumber": "B1",
+                    "duration": 438
+                },
+                {
+                    "title": "Agent Orange",
+                    "trackNumber": "B2",
+                    "duration": 303
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 27,
+            "releaseYear": 1987,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

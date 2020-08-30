@@ -1,0 +1,712 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Shake the Disease",
+                "releaseId": 25,
+                "imageUrl": "https://img.discogs.com/2pGGPE0PMfTmoSDoDB88Scnmw8Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-128824-1251462891.jpeg.jpg",
+                "catalogNumber": "7 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 9
+            },
+            {
+                "title": "Shake the Disease",
+                "releaseId": 26,
+                "imageUrl": "https://img.discogs.com/8gNpfnjFvXEmP6gHYEBLjBLhg6s=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50219-1362909538-8747.jpeg.jpg",
+                "catalogNumber": "12 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 9
+            },
+            {
+                "title": "Shake the Disease",
+                "releaseId": 27,
+                "imageUrl": "https://img.discogs.com/rU2iMGTTHTzjlHi1l0bcO8eXVtQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50326-1159609855.jpeg.jpg",
+                "catalogNumber": "L12 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 9
+            },
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 28,
+                "imageUrl": "https://img.discogs.com/nqFNdZ-dbfgU2mCAe50LUO55Ugg=/fit-in/559x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695569-1156084541.jpeg.jpg",
+                "catalogNumber": "FAC 123",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 29,
+                "imageUrl": "https://img.discogs.com/Z3IpjUvI2Ifvqyn3MpltVky_cjg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58672-1348333547-3724.jpeg.jpg",
+                "catalogNumber": "FAC 123",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "The Perfect Kiss",
+                "releaseId": 30,
+                "imageUrl": "https://img.discogs.com/RWM1hsWqLGnIlmxR0oSBeySeptk=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472459-1435644800-9607.jpeg.jpg",
+                "catalogNumber": "28968-7",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Low-life",
+                "releaseId": 35,
+                "imageUrl": "https://img.discogs.com/knNIp5pJVUiVsA4Q_bDVvBa-8qA=/fit-in/597x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71229-1339844666-4341.jpeg.jpg",
+                "catalogNumber": "FACT 100",
+                "formats": [
+                    {
+                        "formatName": "LP",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 4
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 6,
+                "imageUrl": "https://img.discogs.com/2A3fo0tp93WJ0_JsZ9XSm6ynmPM=/fit-in/560x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53167-1348997918-7982.jpeg.jpg",
+                "catalogNumber": "7 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 10
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 7,
+                "imageUrl": "https://img.discogs.com/5TphHsm_BJZzti8-qG_zqKHHMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50312-1280094952.jpeg.jpg",
+                "catalogNumber": "12 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 10
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 8,
+                "imageUrl": "https://img.discogs.com/MMkg5uvfc7ddpzqtfehYrlJvgcY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135729-1336259482.jpeg.jpg",
+                "catalogNumber": "D12 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 2,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 10
+            },
+            {
+                "title": "Subculture",
+                "releaseId": 31,
+                "imageUrl": "https://img.discogs.com/bVhgCx2wPOjVy5Xi_t7KEv61fuM=/fit-in/504x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698974-1149095285.jpeg.jpg",
+                "catalogNumber": "FAC 133",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Subculture",
+                "releaseId": 32,
+                "imageUrl": "https://img.discogs.com/xGDbT2hqCHZaSe3nbE74fshrN_c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-27740-1204049088.jpeg.jpg",
+                "catalogNumber": "FAC 133",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 9,
+                "imageUrl": "https://img.discogs.com/sLORqTN5m4xZQi3HRDqgyEJjl8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50289-1241282686.jpeg.jpg",
+                "catalogNumber": "20402-0",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 10
+            },
+            {
+                "title": "Stripped",
+                "releaseId": 17,
+                "imageUrl": "https://img.discogs.com/kpQ3R6e-020-XT2oo5IU-rtfabI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127190-1277816388.jpeg.jpg",
+                "catalogNumber": "7 BONG 10",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 7
+            },
+            {
+                "title": "Stripped",
+                "releaseId": 18,
+                "imageUrl": "https://img.discogs.com/ngNWw8pZKJ25P9xBpecQOHBQL20=/fit-in/490x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24397-1172704235.jpeg.jpg",
+                "catalogNumber": "12 BONG 10",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 7
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 19,
+                "imageUrl": "https://img.discogs.com/OH1roMRy-BMDJUjlMJjUnTZ2LFk=/fit-in/560x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53188-1348583178-8236.jpeg.jpg",
+                "catalogNumber": "7 BONG 11",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 20,
+                "imageUrl": "https://img.discogs.com/sTTWf3dRWAZ_z8ZSCwSn_FR2YdY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38715-1371706989-2941.jpeg.jpg",
+                "catalogNumber": "12 BONG 11",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 21,
+                "imageUrl": "https://img.discogs.com/gVun5XUQrc1Pff6lJRX97Y6NJ-I=/fit-in/560x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56295-1274546000.jpeg.jpg",
+                "catalogNumber": "C BONG 11",
+                "formats": [
+                    {
+                        "formatName": "Cassette Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 22,
+                "imageUrl": "https://img.discogs.com/zyICyyOpM53VGbR3iyZLkhFWmCA=/fit-in/600x633/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-202708-1364118094-4629.jpeg.jpg",
+                "catalogNumber": "INT 126.844",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 23,
+                "imageUrl": "https://img.discogs.com/u0pbggnto7EQWNEBj81q5KWMMe0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-846907-1513507065-8118.jpeg.jpg",
+                "catalogNumber": "7-28697-DJ",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 24,
+                "imageUrl": "https://img.discogs.com/7AP_nypUrOgFxhtUNZzWvwdmLIQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-548614-1232565857.jpeg.jpg",
+                "catalogNumber": "PRO-A-2504",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 8
+            },
+            {
+                "title": "Black Celebration",
+                "releaseId": 13,
+                "imageUrl": "https://img.discogs.com/q7tEWR6UFc2EWwgV_11CddpPnL4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5583842-1405089505-2070.jpeg.jpg",
+                "catalogNumber": "STUMM 26",
+                "formats": [
+                    {
+                        "formatName": "LP",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 12
+            },
+            {
+                "title": "Shellshock",
+                "releaseId": 33,
+                "imageUrl": "https://img.discogs.com/9e9_jYQBZowTXTCOvepYJwuUySo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93238-1333742707.jpeg.jpg",
+                "catalogNumber": "FAC 143",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 3
+            },
+            {
+                "title": "Shellshock",
+                "releaseId": 34,
+                "imageUrl": "https://img.discogs.com/hfFSRYpTIAfA4GzNDFd6iWSoA4U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-26724-1213975459.jpeg.jpg",
+                "catalogNumber": "FAC 143",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 2,
+                "artistName": "New Order",
+                "masterReleaseId": 3
+            },
+            {
+                "title": "Mexico Sundown Blues",
+                "releaseId": 36,
+                "imageUrl": "https://img.discogs.com/2oueXMGXrdlLntwqbPMop-nB8XE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340667-1219682059.jpeg.jpg",
+                "catalogNumber": "MRAY 52",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Mexico Sundown Blues",
+                "releaseId": 37,
+                "imageUrl": "https://img.discogs.com/IXX5k-YOYd65s9exfDpzEYBpATE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179622-1487388389-2194.jpeg.jpg",
+                "catalogNumber": "MRAY 52R",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "A Question of Time",
+                "releaseId": 10,
+                "imageUrl": "https://img.discogs.com/NbRflivHJxIK4YeA9t76zjpxQpQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2312225-1371381461-2490.jpeg.jpg",
+                "catalogNumber": "7 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 11
+            },
+            {
+                "title": "A Question of Time",
+                "releaseId": 11,
+                "imageUrl": "https://img.discogs.com/m6BOsIcqgWfUAOxqV4J55fkVMFM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56792-1364118896-4046.jpeg.jpg",
+                "catalogNumber": "12 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 11
+            },
+            {
+                "title": "A Question of Time",
+                "releaseId": 12,
+                "imageUrl": "https://img.discogs.com/HJyCvLnEfMYYLzCQ8ro5yjaZFII=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56794-1232566501.jpeg.jpg",
+                "catalogNumber": "L12 BONG 12",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 11
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 1,
+                "imageUrl": "https://img.discogs.com/i5VLCcR6B9c4HFxJaHTLQDakikM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53172-1251471618.jpeg.jpg",
+                "catalogNumber": "BONG 13",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 2,
+                "imageUrl": "https://img.discogs.com/YDX2UChXlrhc37wPRZlxvyz651U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56786-1426640908-3251.jpeg.jpg",
+                "catalogNumber": "12 BONG 13",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 3,
+                "imageUrl": "https://img.discogs.com/a9Il1SN9XoXnn_ZjeA4IpDXSh74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55360-1432887213-9145.png.jpg",
+                "catalogNumber": "L12 BONG 13",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Texas",
+                "releaseId": 38,
+                "imageUrl": "https://img.discogs.com/kacafsYAINUNnsjPBwkDexLozPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973964-1419090808-9430.jpeg.jpg",
+                "catalogNumber": "MRAY 38",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Texas",
+                "releaseId": 39,
+                "imageUrl": "https://img.discogs.com/OLRS9ZD931AdvZnGUWYiLRkYV5Y=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-388316-1131660589.jpeg.jpg",
+                "catalogNumber": "MRAY 38/T",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Never Let Me Down Again",
+                "releaseId": 14,
+                "imageUrl": "https://img.discogs.com/wg-Ns8lRoteX9KGowUujxHb7-nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53157-1251472792.jpeg.jpg",
+                "catalogNumber": "BONG 14",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Never Let Me Down Again",
+                "releaseId": 15,
+                "imageUrl": "https://img.discogs.com/u7y5YbVY9DoNNjRwez_WKDHN1uM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55900-1364131328-3024.jpeg.jpg",
+                "catalogNumber": "12 BONG 14",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Never Let Me Down Again",
+                "releaseId": 16,
+                "imageUrl": "https://img.discogs.com/8djWQPm5KsCUEoURmQGwKUlTcQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-63969-1441963948-7130.jpeg.jpg",
+                "catalogNumber": "L12 BONG 14",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 2
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 4,
+                "imageUrl": "https://img.discogs.com/Alv2x0wdwHyu2GxyiknM7PDl9ik=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-146385-1364138064-3845.jpeg.jpg",
+                "catalogNumber": "27777-7",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1988,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 5,
+                "imageUrl": "https://img.discogs.com/4aoax7y-uev3pxvmwLm0Qyd7kw0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24398-1241286029.jpeg.jpg",
+                "catalogNumber": "0-21022",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1988,
+                "artistId": 1,
+                "artistName": "Depeche Mode",
+                "masterReleaseId": 1
+            },
+            {
+                "title": "A New Kind of Assassin",
+                "releaseId": 41,
+                "imageUrl": "https://img.discogs.com/rYUBTyIbZueFlDfnFF0Jz1fVGms=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1547480-1487416753-8658.jpeg.jpg",
+                "catalogNumber": "MRAY 89",
+                "formats": [
+                    {
+                        "formatName": "LP",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1989,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 4
+            },
+            {
+                "title": "Dust Boat",
+                "releaseId": 40,
+                "imageUrl": "https://img.discogs.com/SiRq0g_iZaew-JHGC6xf9Q21M24=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-632593-1176488027.jpeg.jpg",
+                "catalogNumber": "MRAY 11",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1989,
+                "artistId": 3,
+                "artistName": "James Ray and the Performance",
+                "masterReleaseId": 4
+            }
+        ]
+    }
+}

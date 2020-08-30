@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/14"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Texas",
+            "masterReleaseId": 14,
+            "imageUrl": "https://img.discogs.com/kacafsYAINUNnsjPBwkDexLozPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973964-1419090808-9430.jpeg.jpg",
+            "releaseVersions": 2
+        }
+    }
+}

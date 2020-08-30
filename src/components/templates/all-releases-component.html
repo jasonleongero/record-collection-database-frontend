@@ -1,0 +1,16 @@
+<div class="view">
+    <img *ngIf="loading && !error" src="dist/images/loading.gif" />
+    <error *ngIf="error"></error>
+    <h3 *ngIf="!loading">All Releases in Database</h3>
+    <div *ngIf="!loading">
+        <div *ngFor="let release of releases" class="masterRelease">
+            <a class="image-link" routerLink="/flat-view/artist/{{release.artistId}}/master-release/{{release.masterReleaseId}}/release/{{release.releaseId}}" routerLinkActive="active"><img src="{{release.imageUrl}}" /></a>
+            <div>
+                <a routerLink="/flat-view/artist/{{release.artistId}}/master-release/{{release.masterReleaseId}}/release/{{release.releaseId}}" routerLinkActive="active">
+                    <div>{{release.artistName}}</div>
+                    <div>{{release.title}}</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

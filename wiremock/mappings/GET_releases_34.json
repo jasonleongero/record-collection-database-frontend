@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/34"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Shellshock",
+            "releaseId": 34,
+            "imageUrl": "https://img.discogs.com/hfFSRYpTIAfA4GzNDFd6iWSoA4U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-26724-1213975459.jpeg.jpg",
+            "catalogNumber": "FAC 143",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Shellshock",
+                    "trackNumber": "A",
+                    "duration": 580
+                },
+                {
+                    "title": "Shellcock",
+                    "trackNumber": "B",
+                    "duration": 451
+                }
+            ],
+            "releaseMonth": 5,
+            "releaseDay": null,
+            "releaseYear": 1985,
+            "recordLabelName": "Factory Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/10"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Subculture",
+            "masterReleaseId": 10,
+            "imageUrl": "https://img.discogs.com/xGDbT2hqCHZaSe3nbE74fshrN_c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-27740-1204049088.jpeg.jpg",
+            "releaseVersions": 2
+        }
+    }
+}

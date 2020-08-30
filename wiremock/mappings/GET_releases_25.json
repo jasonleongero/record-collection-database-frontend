@@ -1,0 +1,44 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/25"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Shake the Disease",
+            "releaseId": 25,
+            "imageUrl": "https://img.discogs.com/2pGGPE0PMfTmoSDoDB88Scnmw8Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-128824-1251462891.jpeg.jpg",
+            "catalogNumber": "7 BONG 8",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Shake the Disease",
+                    "trackNumber": "A",
+                    "duration": 288
+                    
+                },
+                {
+                    "title": "Flexible",
+                    "trackNumber": "B",
+                    "duration": 191
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 29,
+            "releaseYear": 1985,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

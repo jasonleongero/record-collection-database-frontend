@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/37"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Mexico Sundown Blues",
+            "releaseId": 37,
+            "imageUrl": "https://img.discogs.com/IXX5k-YOYd65s9exfDpzEYBpATE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179622-1487388389-2194.jpeg.jpg",
+            "catalogNumber": "MRAY 52R",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Mexico Sundown Blues [Radio Edit]",
+                    "trackNumber": "A",
+                    "duration": 182
+                },
+                {
+                    "title": "Mexico Sundown Blues [Instrumental]",
+                    "trackNumber": "B",
+                    "duration": 393
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1986,
+            "recordLabelName": "Merciful Release",
+            "countryName": "United Kingdom"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/13/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Mexico Sundown Blues",
+                "releaseId": 36,
+                "imageUrl": "https://img.discogs.com/2oueXMGXrdlLntwqbPMop-nB8XE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340667-1219682059.jpeg.jpg",
+                "catalogNumber": "MRAY 52",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "Mexico Sundown Blues",
+                "releaseId": 37,
+                "imageUrl": "https://img.discogs.com/IXX5k-YOYd65s9exfDpzEYBpATE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179622-1487388389-2194.jpeg.jpg",
+                "catalogNumber": "MRAY 52R",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

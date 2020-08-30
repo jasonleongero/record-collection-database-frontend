@@ -1,0 +1,58 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/18"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Stripped",
+            "releaseId": 18,
+            "imageUrl": "https://img.discogs.com/ngNWw8pZKJ25P9xBpecQOHBQL20=/fit-in/490x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24397-1172704235.jpeg.jpg",
+            "catalogNumber": "12 BONG 10",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Stripped [Highland Mix]",
+                    "trackNumber": "A1",
+                    "duration": 401
+                },
+                {
+                    "title": "But Not Tonight [Extended Remix]",
+                    "trackNumber": "A2",
+                    "duration": 310
+                },
+                {
+                    "title": "Breathing in Fumes",
+                    "trackNumber": "B1",
+                    "duration": 365
+                },
+                {
+                    "title": "Fly on the Windscreen [Quiet Mix]",
+                    "trackNumber": "B2",
+                    "duration": 263
+                },
+                {
+                    "title": "Black Day",
+                    "trackNumber": "B3",
+                    "duration": 156
+                }
+            ],
+            "releaseMonth": 2,
+            "releaseDay": 10,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

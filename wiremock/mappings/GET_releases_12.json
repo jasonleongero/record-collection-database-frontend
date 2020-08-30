@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/12"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Time",
+            "releaseId": 12,
+            "imageUrl": "https://img.discogs.com/HJyCvLnEfMYYLzCQ8ro5yjaZFII=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56794-1232566501.jpeg.jpg",
+            "catalogNumber": "L12 BONG 12",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Time [New Town Mix]",
+                    "trackNumber": "A1",
+                    "duration": 410
+                },
+                {
+                    "title": "A Question of Time [Live Remix]",
+                    "trackNumber": "A2",
+                    "duration": 261
+                },
+                {
+                    "title": "Black Celebration [Black Tulip Mix]",
+                    "trackNumber": "B1",
+                    "duration": 396
+                },
+                {
+                    "title": "More Than a Party [Live Remix]",
+                    "trackNumber": "B2",
+                    "duration": 312
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 11,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

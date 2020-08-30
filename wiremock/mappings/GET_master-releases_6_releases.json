@@ -1,0 +1,71 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/6/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 6,
+                "imageUrl": "https://img.discogs.com/2A3fo0tp93WJ0_JsZ9XSm6ynmPM=/fit-in/560x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53167-1348997918-7982.jpeg.jpg",
+                "catalogNumber": "7 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 7,
+                "imageUrl": "https://img.discogs.com/5TphHsm_BJZzti8-qG_zqKHHMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50312-1280094952.jpeg.jpg",
+                "catalogNumber": "12 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 8,
+                "imageUrl": "https://img.discogs.com/MMkg5uvfc7ddpzqtfehYrlJvgcY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135729-1336259482.jpeg.jpg",
+                "catalogNumber": "D12 BONG 9",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 2,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "It's Called a Heart",
+                "releaseId": 9,
+                "imageUrl": "https://img.discogs.com/sLORqTN5m4xZQi3HRDqgyEJjl8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50289-1241282686.jpeg.jpg",
+                "catalogNumber": "20402-0",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            }
+        ]
+    }
+}

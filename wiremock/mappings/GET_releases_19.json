@@ -1,0 +1,44 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/19"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "releaseId": 19,
+            "imageUrl": "https://img.discogs.com/OH1roMRy-BMDJUjlMJjUnTZ2LFk=/fit-in/560x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53188-1348583178-8236.jpeg.jpg",
+            "catalogNumber": "7 BONG 11",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Lust",
+                    "trackNumber": "A",
+                    "duration": 260
+                    
+                },
+                {
+                    "title": "Christmas Island",
+                    "trackNumber": "B",
+                    "duration": 290
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 14,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

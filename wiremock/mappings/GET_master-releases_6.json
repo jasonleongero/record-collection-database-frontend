@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/6"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "It's Called a Heart",
+            "masterReleaseId": 6,
+            "imageUrl": "https://img.discogs.com/2A3fo0tp93WJ0_JsZ9XSm6ynmPM=/fit-in/560x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53167-1348997918-7982.jpeg.jpg",
+            "releaseVersions": 4
+        }
+    }
+}

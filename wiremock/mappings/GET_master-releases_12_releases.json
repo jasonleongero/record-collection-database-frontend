@@ -1,0 +1,29 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/12/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Low-life",
+                "releaseId": 35,
+                "imageUrl": "https://img.discogs.com/knNIp5pJVUiVsA4Q_bDVvBa-8qA=/fit-in/597x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71229-1339844666-4341.jpeg.jpg",
+                "catalogNumber": "FACT 100",
+                "formats": [
+                    {
+                        "formatName": "LP",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

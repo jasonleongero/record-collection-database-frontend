@@ -1,0 +1,17 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/artists/3"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "name": "James Ray and the Performance",
+            "artistId": 3
+        }
+    }
+}

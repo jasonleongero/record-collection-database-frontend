@@ -1,0 +1,27 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/artists"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "name": "Depeche Mode",
+                "artistId": 1
+            },
+            {
+                "name": "New Order",
+                "artistId": 2
+            },
+            {
+                "name": "James Ray and the Performance",
+                "artistId": 3
+            }
+        ]
+    }
+}

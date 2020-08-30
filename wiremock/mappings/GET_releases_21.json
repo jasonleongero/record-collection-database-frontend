@@ -1,0 +1,59 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/21"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "releaseId": 21,
+            "imageUrl": "https://img.discogs.com/gVun5XUQrc1Pff6lJRX97Y6NJ-I=/fit-in/560x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56295-1274546000.jpeg.jpg",
+            "catalogNumber": "C BONG 11",
+            "formats": [
+                {
+                    "formatName": "Cassette Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Lust [Remix]",
+                    "trackNumber": "A1",
+                    "duration": 309
+                },
+                {
+                    "title": "Christmas Island",
+                    "trackNumber": "A2",
+                    "duration": 291
+                },
+                {
+                    "title": "If You Want [Live]",
+                    "trackNumber": "B1",
+                    "duration": 317
+                },
+                {
+                    "title": "Shame [Live]",
+                    "trackNumber": "B2",
+                    "duration": 249
+                },
+                {
+                    "title": "Blasphemous Rumours [Live]",
+                    "trackNumber": "B3",
+                    "duration": 328
+                    
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 14,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

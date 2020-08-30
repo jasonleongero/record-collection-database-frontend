@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/4"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "releaseId": 4,
+            "imageUrl": "https://img.discogs.com/Alv2x0wdwHyu2GxyiknM7PDl9ik=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-146385-1364138064-3845.jpeg.jpg",
+            "catalogNumber": "27777-7",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Strangelove [7\" Version]",
+                    "trackNumber": "A",
+                    "duration": 224
+                },
+                {
+                    "title": "Nothing [Remix / Edit]",
+                    "trackNumber": "B",
+                    "duration": 237
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 23,
+            "releaseYear": 1988,
+            "recordLabelName": "Sire Records",
+            "countryName": "United States"
+        }
+    }
+}

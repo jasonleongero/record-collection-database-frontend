@@ -1,0 +1,57 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/5/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Shake the Disease",
+                "releaseId": 25,
+                "imageUrl": "https://img.discogs.com/2pGGPE0PMfTmoSDoDB88Scnmw8Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-128824-1251462891.jpeg.jpg",
+                "catalogNumber": "7 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "Shake the Disease",
+                "releaseId": 26,
+                "imageUrl": "https://img.discogs.com/8gNpfnjFvXEmP6gHYEBLjBLhg6s=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50219-1362909538-8747.jpeg.jpg",
+                "catalogNumber": "12 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            },
+            {
+                "title": "Shake the Disease",
+                "releaseId": 27,
+                "imageUrl": "https://img.discogs.com/rU2iMGTTHTzjlHi1l0bcO8eXVtQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50326-1159609855.jpeg.jpg",
+                "catalogNumber": "L12 BONG 8",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1985
+            }
+        ]
+    }
+}

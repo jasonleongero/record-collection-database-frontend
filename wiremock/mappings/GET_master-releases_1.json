@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/1"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "masterReleaseId": 1,
+            "imageUrl": "https://img.discogs.com/i5VLCcR6B9c4HFxJaHTLQDakikM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53172-1251471618.jpeg.jpg",
+            "releaseVersions": 5
+        }
+    }
+}

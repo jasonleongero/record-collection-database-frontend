@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/30"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "The Perfect Kiss",
+            "releaseId": 30,
+            "imageUrl": "https://img.discogs.com/RWM1hsWqLGnIlmxR0oSBeySeptk=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472459-1435644800-9607.jpeg.jpg",
+            "catalogNumber": "28968-7",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "The Perfect Kiss",
+                    "trackNumber": "A",
+                    "duration": 263
+                },
+                {
+                    "title": "The Perfect Kiss [Instrumental]",
+                    "trackNumber": "B",
+                    "duration": 309
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1985,
+            "recordLabelName": "Qwest Records",
+            "countryName": "United States"
+        }
+    }
+}

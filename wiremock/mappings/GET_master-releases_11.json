@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/11"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Shellshock",
+            "masterReleaseId": 11,
+            "imageUrl": "https://img.discogs.com/9e9_jYQBZowTXTCOvepYJwuUySo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93238-1333742707.jpeg.jpg",
+            "releaseVersions": 2
+        }
+    }
+}

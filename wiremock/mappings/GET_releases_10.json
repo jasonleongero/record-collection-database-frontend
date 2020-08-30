@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/10"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Time",
+            "releaseId": 10,
+            "imageUrl": "https://img.discogs.com/NbRflivHJxIK4YeA9t76zjpxQpQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2312225-1371381461-2490.jpeg.jpg",
+            "catalogNumber": "7 BONG 12",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Time [Remix]",
+                    "trackNumber": "A",
+                    "duration": 234
+                },
+                {
+                    "title": "Black Celebration",
+                    "trackNumber": "B",
+                    "duration": 356
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 11,
+            "releaseYear": 1986,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

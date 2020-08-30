@@ -1,0 +1,48 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/39"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Texas",
+            "releaseId": 39,
+            "imageUrl": "https://img.discogs.com/OLRS9ZD931AdvZnGUWYiLRkYV5Y=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-388316-1131660589.jpeg.jpg",
+            "catalogNumber": "MRAY 38/T",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Texas",
+                    "trackNumber": "A",
+                    "duration": 326
+                },
+                {
+                    "title": "Mountain Voices",
+                    "trackNumber": "B1",
+                    "duration": 295
+                },
+                {
+                    "title": "Johnny Goodbye",
+                    "trackNumber": "B2",
+                    "duration": 211
+                }
+            ],
+            "releaseMonth": 6,
+            "releaseDay": null,
+            "releaseYear": 1987,
+            "recordLabelName": "Merciful Release",
+            "countryName": "United Kingdom"
+        }
+    }
+}

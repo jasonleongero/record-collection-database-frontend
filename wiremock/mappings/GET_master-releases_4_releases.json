@@ -1,0 +1,99 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/4/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "A Question of Lust",
+                "releaseId": 19,
+                "imageUrl": "https://img.discogs.com/OH1roMRy-BMDJUjlMJjUnTZ2LFk=/fit-in/560x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53188-1348583178-8236.jpeg.jpg",
+                "catalogNumber": "7 BONG 11",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 20,
+                "imageUrl": "https://img.discogs.com/sTTWf3dRWAZ_z8ZSCwSn_FR2YdY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38715-1371706989-2941.jpeg.jpg",
+                "catalogNumber": "12 BONG 11",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 21,
+                "imageUrl": "https://img.discogs.com/gVun5XUQrc1Pff6lJRX97Y6NJ-I=/fit-in/560x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56295-1274546000.jpeg.jpg",
+                "catalogNumber": "C BONG 11",
+                "formats": [
+                    {
+                        "formatName": "Cassette Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 22,
+                "imageUrl": "https://img.discogs.com/zyICyyOpM53VGbR3iyZLkhFWmCA=/fit-in/600x633/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-202708-1364118094-4629.jpeg.jpg",
+                "catalogNumber": "INT 126.844",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 23,
+                "imageUrl": "https://img.discogs.com/u0pbggnto7EQWNEBj81q5KWMMe0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-846907-1513507065-8118.jpeg.jpg",
+                "catalogNumber": "7-28697-DJ",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "A Question of Lust",
+                "releaseId": 24,
+                "imageUrl": "https://img.discogs.com/7AP_nypUrOgFxhtUNZzWvwdmLIQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-548614-1232565857.jpeg.jpg",
+                "catalogNumber": "PRO-A-2504",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

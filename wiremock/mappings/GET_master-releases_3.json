@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/3"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Stripped",
+            "masterReleaseId": 3,
+            "imageUrl": "https://img.discogs.com/kpQ3R6e-020-XT2oo5IU-rtfabI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127190-1277816388.jpeg.jpg",
+            "releaseVersions": 2
+        }
+    }
+}

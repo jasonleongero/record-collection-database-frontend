@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/36"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Mexico Sundown Blues",
+            "releaseId": 36,
+            "imageUrl": "https://img.discogs.com/2oueXMGXrdlLntwqbPMop-nB8XE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340667-1219682059.jpeg.jpg",
+            "catalogNumber": "MRAY 52",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Mexico Sundown Blues",
+                    "trackNumber": "A",
+                    "duration": 542
+                },
+                {
+                    "title": "Edie Sedgwick",
+                    "trackNumber": "B",
+                    "duration": 383
+                }
+            ],
+            "releaseMonth": 7,
+            "releaseDay": null,
+            "releaseYear": 1986,
+            "recordLabelName": "Merciful Release",
+            "countryName": "United Kingdom"
+        }
+    }
+}

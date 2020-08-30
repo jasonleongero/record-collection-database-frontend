@@ -1,0 +1,18 @@
+<div id="viewing-mode-header">
+    <div id="viewing-mode-label">Viewing Mode:</div>
+    <input type="radio" id="heirarchical-view" name="viewing-mode" [checked]="hierarchicalView" (change)="viewingModeChange('Hierarchical')"> 
+    <label for="heirarchical-view">Hierarchical View</label>
+    <input type="radio" id="flat-view" name="viewing-mode" [checked]="flatView" (change)="viewingModeChange('Flat')">
+    <label for="flat-view">Flat View</label>
+</div>
+<p class="breadcrumb">
+    <span *ngFor="let breadCrumb of breadCrumbs; let idx = index">
+        <span *ngIf="idx < breadCrumbs.length - 1">
+            <a routerLink="{{breadCrumb.route}}" routerLinkActive="active">{{breadCrumb.text}}</a> &raquo;
+        </span>
+        <span *ngIf="idx === breadCrumbs.length - 1">
+            {{breadCrumb.text}}
+        </span>
+    </span>
+</p>
+<router-outlet></router-outlet>

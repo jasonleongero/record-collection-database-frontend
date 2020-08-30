@@ -1,0 +1,47 @@
+.sidebar {
+    float: left;
+    width: 350px;
+    text-align: center;
+    
+    img {
+        border: 1px solid lightgray;
+        margin-top: 15px;
+        width: 300px;
+    }
+}
+
+.release-info {
+    min-height: 350px;
+    margin-left: 350px;
+    
+    ul {
+        list-style: none;
+        padding-left: 0;
+    }
+    
+    li {
+        margin-bottom: 0.25em;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+    th, td {
+        padding: 5px;
+        text-align: left;
+    }
+    
+    tbody {
+        border-top: 1px solid #AAAAAA;
+        
+        & > tr:nth-child(2n) {
+            background-color: #E8E8E8; 
+        }
+    }
+    
+    tr > td:first-child {
+        width: 30px;
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/16"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A New Kind of Assassin",
+            "masterReleaseId": 16,
+            "imageUrl": "https://img.discogs.com/rYUBTyIbZueFlDfnFF0Jz1fVGms=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1547480-1487416753-8658.jpeg.jpg",
+            "releaseVersions": 1
+        }
+    }
+}

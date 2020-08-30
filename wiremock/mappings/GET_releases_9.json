@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/9"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "It's Called a Heart",
+            "releaseId": 9,
+            "imageUrl": "https://img.discogs.com/sLORqTN5m4xZQi3HRDqgyEJjl8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50289-1241282686.jpeg.jpg",
+            "catalogNumber": "20402-0",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "It's Called a Heart [Emotion Remix]",
+                    "trackNumber": "A1",
+                    "duration": 408
+                },
+                {
+                    "title": "It's Called a Heart [Emotion Dub]",
+                    "trackNumber": "A2",
+                    "duration": 333
+                },
+                {
+                    "title": "Flexible [Deporation Mix]",
+                    "trackNumber": "B1",
+                    "duration": 278
+                },
+                {
+                    "title": "It's Called a Heart [Single Version]",
+                    "trackNumber": "B2",
+                    "duration": 228
+                }
+            ],
+            "releaseMonth": 1,
+            "releaseDay": 22,
+            "releaseYear": 1986,
+            "recordLabelName": "Sire Records",
+            "countryName": "United States"
+        }
+    }
+}

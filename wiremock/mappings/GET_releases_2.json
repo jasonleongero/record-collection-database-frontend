@@ -1,0 +1,48 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/2"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Strangelove",
+            "releaseId": 2,
+            "imageUrl": "https://img.discogs.com/YDX2UChXlrhc37wPRZlxvyz651U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56786-1426640908-3251.jpeg.jpg",
+            "catalogNumber": "12 BONG 13",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Strangelove [Maxi-Mix]",
+                    "trackNumber": "A",
+                    "duration": 398
+                },
+                {
+                    "title": "Strangelove [Midi-Mix]",
+                    "trackNumber": "B1",
+                    "duration": 101
+                },
+                {
+                    "title": "Fpmip",
+                    "trackNumber": "B2",
+                    "duration": 327
+                }
+            ],
+            "releaseMonth": 4,
+            "releaseDay": 27,
+            "releaseYear": 1987,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

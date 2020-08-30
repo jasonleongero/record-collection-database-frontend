@@ -1,0 +1,48 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/16"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Never Let Me Down Again",
+            "releaseId": 16,
+            "imageUrl": "https://img.discogs.com/8djWQPm5KsCUEoURmQGwKUlTcQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-63969-1441963948-7130.jpeg.jpg",
+            "catalogNumber": "L12 BONG 14",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Never Let Me Down Again [Tsangarides Mix]",
+                    "trackNumber": "A",
+                    "duration": 264
+                },
+                {
+                    "title": "Pleasure, Little Treasure [Join Mix]",
+                    "trackNumber": "B1",
+                    "duration": 295
+                },
+                {
+                    "title": "Never Let Me Down Again [Spanish Taster]",
+                    "trackNumber": "B2",
+                    "duration": 156
+                }
+            ],
+            "releaseMonth": 8,
+            "releaseDay": 24,
+            "releaseYear": 1987,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

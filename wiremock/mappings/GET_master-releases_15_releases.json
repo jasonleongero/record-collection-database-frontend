@@ -1,0 +1,29 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/15/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Dust Boat",
+                "releaseId": 40,
+                "imageUrl": "https://img.discogs.com/SiRq0g_iZaew-JHGC6xf9Q21M24=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-632593-1176488027.jpeg.jpg",
+                "catalogNumber": "MRAY 11",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1989
+            }
+        ]
+    }
+}

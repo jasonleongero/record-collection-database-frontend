@@ -1,0 +1,29 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/8/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Black Celebration",
+                "releaseId": 13,
+                "imageUrl": "https://img.discogs.com/q7tEWR6UFc2EWwgV_11CddpPnL4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5583842-1405089505-2070.jpeg.jpg",
+                "catalogNumber": "STUMM 26",
+                "formats": [
+                    {
+                        "formatName": "LP",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/artists/2/master-releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "The Perfect Kiss",
+                "masterReleaseId": 9,
+                "imageUrl": "https://img.discogs.com/Z3IpjUvI2Ifvqyn3MpltVky_cjg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58672-1348333547-3724.jpeg.jpg",
+                "releaseVersions": 3
+            },
+            {
+                "title": "Low-life",
+                "masterReleaseId": 12,
+                "imageUrl": "https://img.discogs.com/knNIp5pJVUiVsA4Q_bDVvBa-8qA=/fit-in/597x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71229-1339844666-4341.jpeg.jpg",
+                "releaseVersions": 1
+            },
+            {
+                "title": "Subculture",
+                "masterReleaseId": 10,
+                "imageUrl": "https://img.discogs.com/xGDbT2hqCHZaSe3nbE74fshrN_c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-27740-1204049088.jpeg.jpg",
+                "releaseVersions": 2
+            },
+            {
+                "title": "Shellshock",
+                "masterReleaseId": 11,
+                "imageUrl": "https://img.discogs.com/9e9_jYQBZowTXTCOvepYJwuUySo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93238-1333742707.jpeg.jpg",
+                "releaseVersions": 2
+            }
+        ]
+    }
+}

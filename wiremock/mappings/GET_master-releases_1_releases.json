@@ -1,0 +1,85 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/1/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Strangelove",
+                "releaseId": 1,
+                "imageUrl": "https://img.discogs.com/i5VLCcR6B9c4HFxJaHTLQDakikM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53172-1251471618.jpeg.jpg",
+                "catalogNumber": "BONG 13",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 2,
+                "imageUrl": "https://img.discogs.com/YDX2UChXlrhc37wPRZlxvyz651U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56786-1426640908-3251.jpeg.jpg",
+                "catalogNumber": "12 BONG 13",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 3,
+                "imageUrl": "https://img.discogs.com/a9Il1SN9XoXnn_ZjeA4IpDXSh74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55360-1432887213-9145.png.jpg",
+                "catalogNumber": "L12 BONG 13",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1987
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 4,
+                "imageUrl": "https://img.discogs.com/Alv2x0wdwHyu2GxyiknM7PDl9ik=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-146385-1364138064-3845.jpeg.jpg",
+                "catalogNumber": "27777-7",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1988
+            },
+            {
+                "title": "Strangelove",
+                "releaseId": 5,
+                "imageUrl": "https://img.discogs.com/4aoax7y-uev3pxvmwLm0Qyd7kw0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24398-1241286029.jpeg.jpg",
+                "catalogNumber": "0-21022",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1988
+            }
+        ]
+    }
+}

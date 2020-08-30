@@ -1,0 +1,15 @@
+.error {
+    text-align: center;
+    color: red;
+    
+    .error-symbol {
+        vertical-align: sub;
+        font-size: 300%;
+    }
+    
+    .error-message {
+        font-size: 120%;
+        padding-left: 10px;
+        font-weight: bold;
+    }
+}

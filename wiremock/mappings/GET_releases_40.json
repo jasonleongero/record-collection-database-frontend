@@ -1,0 +1,48 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/40"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "Dust Boat",
+            "releaseId": 40,
+            "imageUrl": "https://img.discogs.com/SiRq0g_iZaew-JHGC6xf9Q21M24=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-632593-1176488027.jpeg.jpg",
+            "catalogNumber": "MRAY 11",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "Dust Boat",
+                    "trackNumber": "A",
+                    "duration": 271
+                },
+                {
+                    "title": "A New Kind of Assassin",
+                    "trackNumber": "B1",
+                    "duration": 402
+                },
+                {
+                    "title": "Southern White Knight [Live]",
+                    "trackNumber": "B2",
+                    "duration": 189
+                }
+            ],
+            "releaseMonth": 11,
+            "releaseDay": 6,
+            "releaseYear": 1989,
+            "recordLabelName": "Merciful Release",
+            "countryName": "United Kingdom"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/master-releases/11/releases"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": [
+            {
+                "title": "Shellshock",
+                "releaseId": 33,
+                "imageUrl": "https://img.discogs.com/9e9_jYQBZowTXTCOvepYJwuUySo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93238-1333742707.jpeg.jpg",
+                "catalogNumber": "FAC 143",
+                "formats": [
+                    {
+                        "formatName": "7\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            },
+            {
+                "title": "Shellshock",
+                "releaseId": 34,
+                "imageUrl": "https://img.discogs.com/hfFSRYpTIAfA4GzNDFd6iWSoA4U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-26724-1213975459.jpeg.jpg",
+                "catalogNumber": "FAC 143",
+                "formats": [
+                    {
+                        "formatName": "12\" Single",
+                        "quantity": 1,
+                        "notes": ""
+                    }
+                ],
+                "releaseYear": 1986
+            }
+        ]
+    }
+}

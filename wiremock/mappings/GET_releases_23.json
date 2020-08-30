@@ -1,0 +1,44 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/23"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "A Question of Lust",
+            "releaseId": 23,
+            "imageUrl": "https://img.discogs.com/u0pbggnto7EQWNEBj81q5KWMMe0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-846907-1513507065-8118.jpeg.jpg",
+            "catalogNumber": "7-28697-DJ",
+            "formats": [
+                {
+                    "formatName": "7\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "A Question of Lust [Remix]",
+                    "trackNumber": "A",
+                    "duration": 225
+                    
+                },
+                {
+                    "title": "A Question of Lust [Edit]",
+                    "trackNumber": "B",
+                    "duration": 256
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1986,
+            "recordLabelName": "Sire Records",
+            "countryName": "United States"
+        }
+    }
+}

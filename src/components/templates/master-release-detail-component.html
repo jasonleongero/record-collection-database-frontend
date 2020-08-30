@@ -1,0 +1,11 @@
+<div class="view">
+    <img *ngIf="loading && !error" src="dist/images/loading.gif" />
+    <error *ngIf="error"></error>
+    <h3 *ngIf="!loading">{{artistName}} &mdash; {{masterReleaseTitle}}</h3>
+    <div *ngIf="!loading" id="master-release-list">
+        <div *ngFor="let release of formattedReleaseList" class="masterRelease">
+            <a class="image-link" routerLink="/hierarchical-view/artist/{{artistId}}/master-release/{{masterReleaseId}}/release/{{release.releaseId}}" routerLinkActive="active"><img src="{{release.imageUrl}}" /></a>
+            <div><a routerLink="/hierarchical-view/artist/{{artistId}}/master-release/{{masterReleaseId}}/release/{{release.releaseId}}" routerLinkActive="active">{{release.title}}</a></div>
+        </div>
+    </div>
+</div>

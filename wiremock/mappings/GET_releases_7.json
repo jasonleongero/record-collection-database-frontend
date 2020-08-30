@@ -1,0 +1,43 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/7"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "It's Called a Heart",
+            "releaseId": 7,
+            "imageUrl": "https://img.discogs.com/5TphHsm_BJZzti8-qG_zqKHHMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50312-1280094952.jpeg.jpg",
+            "catalogNumber": "12 BONG 9",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 1,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "It's Called a Heart [Extended]",
+                    "trackNumber": "A",
+                    "duration": 440          
+                },
+                {
+                    "title": "Fly on the Windscreen [Extended]",
+                    "trackNumber": "B",
+                    "duration": 470
+                }
+            ],
+            "releaseMonth": 9,
+            "releaseDay": 16,
+            "releaseYear": 1985,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

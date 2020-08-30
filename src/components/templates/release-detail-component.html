@@ -1,0 +1,34 @@
+<div class="view">
+    <img *ngIf="loading && !error" src="dist/images/loading.gif" />
+    <error *ngIf="error"></error>
+    <div *ngIf="!loading" class="sidebar">
+        <img src="{{releaseDetail.imageUrl}}" />
+    </div>
+    <div *ngIf="!loading" class="release-info">
+        <h2>{{artistName}} &mdash; {{releaseDetail.title}}</h2>
+        <ul>
+            <li><strong>Label:</strong> {{recordLabelName}}</li>
+            <li><strong>Catalog Number:</strong> {{catalogNumber}}</li>
+            <li><strong>Format:</strong> {{formats}}</li>
+            <li><strong>Country:</strong> {{countryName}}</li>
+            <li><strong>Release Date:</strong> {{formattedReleaseDate}}</li>
+        </ul>
+        <h3>Tracks:</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Title</th>
+                    <th>Duration</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let track of formattedTracklisting">
+                    <td>{{track.trackNumber}}.</td>
+                    <td>{{track.title}}</td>
+                    <td>{{track.duration}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

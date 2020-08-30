@@ -1,0 +1,53 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/releases/8"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "title": "It's Called a Heart",
+            "releaseId": 8,
+            "imageUrl": "https://img.discogs.com/MMkg5uvfc7ddpzqtfehYrlJvgcY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135729-1336259482.jpeg.jpg",
+            "catalogNumber": "D12 BONG 9",
+            "formats": [
+                {
+                    "formatName": "12\" Single",
+                    "quantity": 2,
+                    "notes": ""
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "It's Called a Heart [Extended]",
+                    "trackNumber": "A",
+                    "duration": 440
+                },
+                {
+                    "title": "Fly on the Windscreen [Extended]",
+                    "trackNumber": "B",
+                    "duration": 470
+                },
+                {
+                    "title": "It's Called a Heart [Slow Mix]",
+                    "trackNumber": "C",
+                    "duration": 289
+                },
+                {
+                    "title": "Fly on the Windscreen [Death Mix]",
+                    "trackNumber": "D",
+                    "duration": 306
+                }
+            ],
+            "releaseMonth": null,
+            "releaseDay": null,
+            "releaseYear": 1985,
+            "recordLabelName": "Mute Records",
+            "countryName": "United Kingdom"
+        }
+    }
+}

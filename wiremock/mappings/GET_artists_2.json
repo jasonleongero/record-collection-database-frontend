@@ -1,0 +1,17 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/record-collection-service/artists/2"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Content-Type": "application/json"
+        },
+        "jsonBody": {
+            "name": "New Order",
+            "artistId": 2
+        }
+    }
+}
